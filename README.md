@@ -64,7 +64,7 @@
   <img src="https://img.shields.io/badge/SQLite-%235D3FD3.svg?style=plastic&logo=sqlite&logoColor=white">
 </p> -->
 
----
+<!-- --- -->
 
 ### <picture>
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px">
@@ -74,7 +74,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-%237C3AED.svg?style=plastic&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Jupyter-%23FBBF24.svg?style=plastic&logo=jupyter&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-%238B5CF6.svg?style=plastic&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-%23A855F7.svg?style=plastic&logo=postman&logoColor=white">
+  <!-- <img src="https://img.shields.io/badge/Postman-%23A855F7.svg?style=plastic&logo=postman&logoColor=white"> -->
 </p>
 
 <br>
