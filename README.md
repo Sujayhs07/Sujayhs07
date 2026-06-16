@@ -3,10 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=9D7DFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Learner;Software+Developer;AI+%26+Automation+Enthusiast;Student+%40+Dr.+Ambedkar+Institute+of+Technology;Building+The+Lucifer+AI+Assistant;Python+%7C+AI+%7C+Databases">
-  </a>
-</p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=851&color=AB28F7&background=D5FF3000&center=true&width=600&lines=Learner;AI+and+Automation+Enthusiast;Student+of+Dr+Ambedkar+Institute+of+Technology;Python+%7C+C+%7C+AI+%7C+DATABASES" alt="Typing SVG" /></a>
 
 <br>
 
