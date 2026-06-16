@@ -21,11 +21,11 @@
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 </picture>
 
-- Currently a **student at Dr. Ambedkar Institute of Technology**  
+- Currently a **2nd year student at Dr. Ambedkar Institute of Technology**  
 - A **learner** at heart — always exploring new tools, frameworks, and ideas in tech  
 - Passionate about building intelligent systems using **Python** and **AI tooling**   
 - Interested in **databases**, **AI/ML**, and **full-stack development**  
-- Open to collaborations, internships, and learning opportunities in **AI**, **software development**, and **data-driven systems**  
+- Open to collaborations, internships, and learning opportunities in **AI**, **software development**, and **Full Stack Development**  
 - Reach me at: **[hssujay24@gmail.com](mailto:hssujay24@gmail.com)**
 
 <br>
