@@ -51,7 +51,7 @@
 
 ---
 
-### <picture>
+<!-- ### <picture>
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="50px">
 </picture> Libraries, Frameworks & Tools
 
@@ -62,7 +62,7 @@
   <img src="https://img.shields.io/badge/Groq-%234B5563.svg?style=plastic&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-%236B7280.svg?style=plastic&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-%235D3FD3.svg?style=plastic&logo=sqlite&logoColor=white">
-</p>
+</p> -->
 
 ---
 
