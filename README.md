@@ -88,9 +88,18 @@
 > A database management system project for tracking and analyzing stock market data.  
 **Tech Stack:** SQL, Python, DBMS concepts
 
-### [AI-Retail-Product-Description-Generator)
+### [AI-Retail-Product-Description-Generator](https://github.com/Sujayhs07/AI-Retail-Product-Description-Generator.git).
 > CatalogCraft AI is an enterprise AI-powered platform that accepts structured retail product data and automatically generates accurate, engaging, consistent, and SEO-optimized product descriptions.
 **Tech Stack:** Typescript, Python, SQLite (catalogcraft.db), Local file uploads & export directories, React 19,SQLAlchemy ORM
+
+### [Meridian Pay](https://github.com/Sujayhs07/merdian_pay.git)
+> Meridian Pay is a non-custodial crypto payment gateway and Point-of-Sale (POS) terminal. It enables merchants to accept digital dollar payments from customers regardless of which blockchain they hold funds on. Solana serves as the high-speed, sub-cent settlement engine, while Ethereum acts as an ingress rail powered by Circle's Cross-Chain Transfer Protocol (CCTP).
+**Tech Stack:** Solana Web3.js , Solana Wallet Adapter, Circle CCTP, Circle Developer-Controlled Wallets SDK, React 19, TypeScript, Vite, QRCode.react, Custom CSS Ledger Design System,Node.js (ESM), Express 5, JWT, BcryptJS, Nodemailer, Nanoid.
+
+### [FINORA AI – AI-Powered Voice-Based Financial Assistant](https://github.com/Sujayhs07/MURF-AI.git)
+> Building FINORA AI – A multilingual, voice-first financial assistant leveraging conversational AI to make financial literacy and government services more accessible.
+> Built for: Murf AI – Voice for Bharat Challenge 2026 | Financial Services Track.
+**Tech Stack:** Typescript, Python, Murf AI, Node.js, Livekit
 
 ---
 
