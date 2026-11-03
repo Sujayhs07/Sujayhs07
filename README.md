@@ -88,6 +88,10 @@
 > A database management system project for tracking and analyzing stock market data.  
 **Tech Stack:** SQL, Python, DBMS concepts
 
+### [AI-Retail-Product-Description-Generator)
+> CatalogCraft AI is an enterprise AI-powered platform that accepts structured retail product data and automatically generates accurate, engaging, consistent, and SEO-optimized product descriptions.
+**Tech Stack:** Typescript, Python, SQLite (catalogcraft.db), Local file uploads & export directories, React 19,SQLAlchemy ORM
+
 ---
 
 ## Achievements & GitHub Stats
