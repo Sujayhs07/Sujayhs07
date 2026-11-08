@@ -1,6 +1,6 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px" alt="Developer"> I'm SUJAY H S</h1>
-
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+<p align="center">
+  <img src="assests/header-banner.svg" alt="Hey, I'm Sujay H S - Learner, AI/ML, Full-Stack Developer" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sujayhs07&label=Profile%20views&color=8B5CF6&style=plastic"
@@ -8,6 +8,8 @@
        height="25px"
        width="160px"/>
 </p>
+
+<img src="assests/divider.svg" alt="" width="100%" />
 
 ## About Me
 
@@ -25,16 +27,10 @@
 
 <br>
 
-## 🚀 Featured Projects
-
-<!--
-  LIVE BADGE: replace each YOUR-LIVE-SITE-N URL with the real deployed link.
-  If a project is NOT deployed, delete the whole <a>...</a> badge in that row
-  (leave the cell empty or write "-").
--->
+<img src="assests/divider.svg" alt="" width="100%" />
 
 ## 🚀 Featured Projects
- 
+
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -100,10 +96,12 @@
     </td>
   </tr>
 </table>
+
 > 📌 More projects coming soon. Check out my [repositories](https://github.com/Sujayhs07?tab=repositories) for everything else.
- 
+
 <br>
 
+<img src="assests/divider.svg" alt="" width="100%" />
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/stats?username=sujayhs07&theme=github-dark&mode=dark" alt="sujayhs07's GitHub Stats" width="49%" />
@@ -121,6 +119,8 @@
 </p>
 
 <br>
+
+<img src="assests/divider.svg" alt="" width="100%" />
 
 ## 🛠️ Languages & Tools
 
@@ -140,6 +140,8 @@
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/vercel/mono.svg" alt="Vercel" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/render/default.svg" alt="Render" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
 
 <br>
+
+<img src="assests/divider.svg" alt="" width="100%" />
 
 ## 🔗 Connect with Me
 
