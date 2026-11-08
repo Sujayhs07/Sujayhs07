@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assests/header-terminal.svg" alt="Sujay H S - terminal-style header: 3rd-year student, Learner, AI/ML, Full-Stack, Databases" width="100%" />
+  <img src="assests/header-terminal.svg" alt="Sujay H S - terminal-style header: 3rd-year student, Learner, Full-Stack, Databases" width="100%" />
 </p>
 
 <p align="center">
