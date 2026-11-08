@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assests/header-banner.svg" alt="Hey, I'm Sujay H S - Learner, AI/ML, Full-Stack Developer" width="100%" />
+  <img src="assests/header-terminal.svg" alt="Sujay H S - terminal-style header: 3rd-year student, Learner, AI/ML, Full-Stack, Databases" width="100%" />
 </p>
 
 <p align="center">
@@ -31,71 +31,35 @@
 
 ## 🚀 Featured Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎙️ FINORA AI</h3>
-      <p>Multilingual, voice-first financial assistant that uses conversational AI to make financial literacy and government services more accessible. Built for the <b>Murf AI – Voice for Bharat Challenge 2026</b> (Financial Services Track).</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-8B5CF6?style=flat-square&labelColor=0d1117" alt="TypeScript">
-        <img src="https://img.shields.io/badge/Python-8B5CF6?style=flat-square&labelColor=0d1117" alt="Python">
-        <img src="https://img.shields.io/badge/Murf%20AI-8B5CF6?style=flat-square&labelColor=0d1117" alt="Murf AI">
-        <img src="https://img.shields.io/badge/Node.js-8B5CF6?style=flat-square&labelColor=0d1117" alt="Node.js">
-        <img src="https://img.shields.io/badge/LiveKit-8B5CF6?style=flat-square&labelColor=0d1117" alt="LiveKit">
-      </p>
-      <p>
-        <a href="https://github.com/Sujayhs07/MURF-AI"><img src="https://img.shields.io/badge/View%20Code-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="View code on GitHub" height="28"></a>
-        <a href="https://murf-ai-ashen.vercel.app/"><img src="assests/live-badge.svg" alt="Live - Visit Website" height="28"></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💳 Meridian Pay</h3>
-      <p>Non-custodial crypto payment gateway and POS terminal that lets merchants accept digital dollar payments from customers on any blockchain, with Solana for settlement and Ethereum as an ingress rail via Circle CCTP.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Solana%20Web3.js-8B5CF6?style=flat-square&labelColor=0d1117" alt="Solana Web3.js">
-        <img src="https://img.shields.io/badge/Circle%20CCTP-8B5CF6?style=flat-square&labelColor=0d1117" alt="Circle CCTP">
-        <img src="https://img.shields.io/badge/React%2019-8B5CF6?style=flat-square&labelColor=0d1117" alt="React 19">
-        <img src="https://img.shields.io/badge/TypeScript-8B5CF6?style=flat-square&labelColor=0d1117" alt="TypeScript">
-        <img src="https://img.shields.io/badge/Vite-8B5CF6?style=flat-square&labelColor=0d1117" alt="Vite">
-        <img src="https://img.shields.io/badge/Node.js-8B5CF6?style=flat-square&labelColor=0d1117" alt="Node.js">
-        <img src="https://img.shields.io/badge/Express%205-8B5CF6?style=flat-square&labelColor=0d1117" alt="Express 5">
-        <img src="https://img.shields.io/badge/JWT-8B5CF6?style=flat-square&labelColor=0d1117" alt="JWT">
-      </p>
-      <p>
-        <a href="https://github.com/Sujayhs07/merdian_pay"><img src="https://img.shields.io/badge/View%20Code-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="View code on GitHub" height="28"></a>
-        <a href="https://merdianpay-web.vercel.app/"><img src="assests/live-badge.svg" alt="Live - Visit Website" height="28"></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛍️ CatalogCraft AI</h3>
-      <p>Enterprise AI platform that takes structured retail product data and generates accurate, engaging, consistent, SEO-optimized product descriptions.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-8B5CF6?style=flat-square&labelColor=0d1117" alt="TypeScript">
-        <img src="https://img.shields.io/badge/Python-8B5CF6?style=flat-square&labelColor=0d1117" alt="Python">
-        <img src="https://img.shields.io/badge/React%2019-8B5CF6?style=flat-square&labelColor=0d1117" alt="React 19">
-        <img src="https://img.shields.io/badge/SQLAlchemy-8B5CF6?style=flat-square&labelColor=0d1117" alt="SQLAlchemy">
-        <img src="https://img.shields.io/badge/SQLite-8B5CF6?style=flat-square&labelColor=0d1117" alt="SQLite">
-      </p>
-      <p>
-        <a href="https://github.com/Sujayhs07/AI-Retail-Product-Description-Generator"><img src="https://img.shields.io/badge/View%20Code-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="View code on GitHub" height="28"></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📈 Stock Market DBMS</h3>
-      <p>Database management system for tracking and analyzing stock market data.</p>
-      <p>
-        <img src="https://img.shields.io/badge/SQL-8B5CF6?style=flat-square&labelColor=0d1117" alt="SQL">
-        <img src="https://img.shields.io/badge/Python-8B5CF6?style=flat-square&labelColor=0d1117" alt="Python">
-        <img src="https://img.shields.io/badge/DBMS%20Concepts-8B5CF6?style=flat-square&labelColor=0d1117" alt="DBMS Concepts">
-      </p>
-      <p>
-        <a href="https://github.com/Sujayhs07/STOCK_MARKET_DBMS_MINI_PROJECT"><img src="https://img.shields.io/badge/View%20Code-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="View code on GitHub" height="28"></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Sujayhs07/MURF-AI"><img src="assests/card-finora.svg" alt="FINORA AI project card" width="100%" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Sujayhs07/MURF-AI"><img src="https://img.shields.io/badge/View%20Code-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="View code on GitHub" height="28"></a>
+  <a href="https://murf-ai-ashen.vercel.app/"><img src="assests/live-badge.svg" alt="Live - Visit Website" height="28"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sujayhs07/merdian_pay"><img src="assests/card-meridian.svg" alt="Meridian Pay project card" width="100%" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Sujayhs07/merdian_pay"><img src="https://img.shields.io/badge/View%20Code-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="View code on GitHub" height="28"></a>
+  <a href="https://merdianpay-web.vercel.app/"><img src="assests/live-badge.svg" alt="Live - Visit Website" height="28"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sujayhs07/AI-Retail-Product-Description-Generator"><img src="assests/card-catalogcraft.svg" alt="CatalogCraft AI project card" width="100%" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Sujayhs07/AI-Retail-Product-Description-Generator"><img src="https://img.shields.io/badge/View%20Code-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="View code on GitHub" height="28"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sujayhs07/STOCK_MARKET_DBMS_MINI_PROJECT"><img src="assests/card-stockmarket.svg" alt="Stock Market DBMS project card" width="100%" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Sujayhs07/STOCK_MARKET_DBMS_MINI_PROJECT"><img src="https://img.shields.io/badge/View%20Code-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="View code on GitHub" height="28"></a>
+</p>
 
 > 📌 More projects coming soon. Check out my [repositories](https://github.com/Sujayhs07?tab=repositories) for everything else.
 
