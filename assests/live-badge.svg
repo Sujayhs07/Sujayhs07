@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170" height="30" viewBox="0 0 170 30" role="img" aria-label="Live - Visit Website">
+  <title>Live - Visit Website</title>
+  <rect x="0.5" y="0.5" width="169" height="29" rx="14.5" fill="#0d1117" stroke="#30363d"/>
+
+  <!-- pulsing ring -->
+  <circle cx="19" cy="15" r="5" fill="#ff2d2d" opacity="0.6">
+    <animate attributeName="r" values="5;11;5" dur="1.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0;0.6" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- solid red dot -->
+  <circle cx="19" cy="15" r="5" fill="#ff2d2d">
+    <animate attributeName="opacity" values="1;0.65;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="34" y="19.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="0.8" fill="#ffffff">LIVE</text>
+  <line x1="70" y1="8" x2="70" y2="22" stroke="#30363d" stroke-width="1"/>
+  <text x="79" y="19.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#58a6ff">Visit Website ↗</text>
+</svg>
